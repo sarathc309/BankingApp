@@ -10,6 +10,7 @@ public class BankingAppApplication {
 		SpringApplication.run(BankingAppApplication.class, args);
 		
 		System.out.println("This is a demo message");
+		System.out.println("Again");
 	}
 
 }
